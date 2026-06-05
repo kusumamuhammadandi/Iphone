@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <br />
     <a href="https://youtu.be/kRQbRAJ4-Fs" target="_blank">
@@ -794,3 +795,7 @@ And if you're hungry for more than just a course and want to understand how we l
 </a>
 
 #
+=======
+# Iphone
+My React portfolio project.
+>>>>>>> d5bd4c3e1aea80970043396ebb11a690dffa766b
